@@ -1,5 +1,5 @@
 def main():
-    print("Hello from blog-generation!")
+    print("Hello from blogagentic!")
 
 
 if __name__ == "__main__":
